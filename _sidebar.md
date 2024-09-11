@@ -1,9 +1,19 @@
 - Git
-  - [撤销和丢弃commit](/docs/Git/撤销和丢弃commit.md)
+  - [撤销和丢弃 commit](/docs/Git/撤销和丢弃commit.md)
 - 关于博客
-  - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
-  - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
+  - [使用 docsify 搭建博客](/docs/关于博客/使用docsify搭建博客.md)
+  - [自动生成 sidebar](/docs/关于博客/自动生成sidebar.md)
+- 前端监控
+  - [wip-端到端成功率与承接率](/docs/前端监控/wip-端到端成功率与承接率.md)
+- 客户端知识
+  - [wip-通过 Fragment 控制页面延迟加载](/docs/客户端知识/wip-通过Fragment控制页面延迟加载.md)
 - 开发实践
-  - [npm包的本地调试](/docs/开发实践/npm包的本地调试.md)
+  - [npm 包的本地调试](/docs/开发实践/npm包的本地调试.md)
   - [关于编码规范的一点思考](/docs/开发实践/关于编码规范的一点思考.md)
   - [扩大点击热区](/docs/开发实践/扩大点击热区.md)
+- 性能优化
+  - [wip-prefetch 接口预取](/docs/性能优化/wip-prefetch接口预取.md)
+  - [wip-preload 资源预加载](/docs/性能优化/wip-preload资源预加载.md)
+  - [wip-prerender 预渲染](/docs/性能优化/wip-prerender预渲染.md)
+- 计算机网络
+  - [wip-通过 websocket 实现双向通信](/docs/计算机网络/wip-通过websocket实现双向通信.md)
