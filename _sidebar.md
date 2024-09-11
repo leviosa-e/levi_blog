@@ -1,6 +1,7 @@
 - Git
   - [撤销和丢弃commit](/docs/Git/撤销和丢弃commit.md)
 - 关于博客
+  - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
 - 开发实践
   - [npm包的本地调试](/docs/开发实践/npm包的本地调试.md)
