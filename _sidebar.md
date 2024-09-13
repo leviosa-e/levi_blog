@@ -1,5 +1,7 @@
 - Git
   - [撤销和丢弃commit](/docs/Git/撤销和丢弃commit.md)
+- JS
+  - [async&defer属性](/docs/JS/async&defer属性.md)
 - 关于博客
   - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
