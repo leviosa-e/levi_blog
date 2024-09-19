@@ -19,5 +19,6 @@
   - [wip-preload资源预加载](/docs/性能优化/wip-preload资源预加载.md)
   - [wip-prerender预渲染](/docs/性能优化/wip-prerender预渲染.md)
   - [性能分析](/docs/性能优化/性能分析.md)
+  - [性能指标](/docs/性能优化/性能指标.md)
 - 计算机网络
   - [wip-通过websocket实现双向通信](/docs/计算机网络/wip-通过websocket实现双向通信.md)
