@@ -2,6 +2,7 @@
   - [撤销和丢弃commit](/docs/Git/撤销和丢弃commit.md)
 - JS
   - [async&defer属性](/docs/JS/async&defer属性.md)
+  - [内存机制](/docs/JS/内存机制.md)
 - 一点思考
   - [关于任务拆解](/docs/一点思考/关于任务拆解.md)
   - [关于谈判](/docs/一点思考/关于谈判.md)
@@ -9,7 +10,6 @@
 - 关于博客
   - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
-- 关于我
 - 前端监控
   - [wip-端到端成功率与承接率](/docs/前端监控/wip-端到端成功率与承接率.md)
 - 客户端知识
