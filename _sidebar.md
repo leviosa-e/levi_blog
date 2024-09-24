@@ -3,6 +3,9 @@
 - JS
   - [async&defer属性](/docs/JS/async&defer属性.md)
   - [内存机制](/docs/JS/内存机制.md)
+- Shell
+  - [Shell是什么](/docs/Shell/Shell是什么.md)
+  - [常用命令](/docs/Shell/常用命令.md)
 - 一点思考
   - [关于任务拆解](/docs/一点思考/关于任务拆解.md)
   - [关于谈判](/docs/一点思考/关于谈判.md)
