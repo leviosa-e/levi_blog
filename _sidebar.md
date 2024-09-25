@@ -3,6 +3,9 @@
 - JS
   - [async&defer属性](/docs/JS/async&defer属性.md)
   - [内存机制](/docs/JS/内存机制.md)
+- Node.js
+  - [操作文件](/docs/Node.js/操作文件.md)
+  - [操作路径](/docs/Node.js/操作路径.md)
 - Shell
   - [Shell是什么](/docs/Shell/Shell是什么.md)
   - [常用命令](/docs/Shell/常用命令.md)
@@ -14,11 +17,12 @@
 - 关于博客
   - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
-- 关于我
 - 前端工程化
   - [构建配置](/docs/前端工程化/构建配置.md)
 - 前端监控
   - [wip-端到端成功率与承接率](/docs/前端监控/wip-端到端成功率与承接率.md)
+- 命令行工具
+  - [使用commander写一个命令行工具](/docs/命令行工具/使用commander写一个命令行工具.md)
 - 客户端知识
   - [wip-通过Fragment控制页面延迟加载](/docs/客户端知识/wip-通过Fragment控制页面延迟加载.md)
 - 开发实践
