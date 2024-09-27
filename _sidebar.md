@@ -17,6 +17,7 @@
 - 关于博客
   - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
+- 关于我
 - 前端工程化
   - [构建配置](/docs/前端工程化/构建配置.md)
 - 前端监控
