@@ -37,6 +37,7 @@
   - [npm包的本地调试](/docs/开发实践/npm包的本地调试.md)
   - [关于编码规范的一点思考](/docs/开发实践/关于编码规范的一点思考.md)
   - [扩大点击热区](/docs/开发实践/扩大点击热区.md)
+  - [插件系统的设计](/docs/开发实践/插件系统的设计.md)
 - 性能优化
   - [wip-prefetch接口预取](/docs/性能优化/wip-prefetch接口预取.md)
   - [wip-preload资源预加载](/docs/性能优化/wip-preload资源预加载.md)
