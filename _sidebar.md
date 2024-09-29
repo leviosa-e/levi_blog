@@ -23,6 +23,7 @@
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
 - 关于我
 - 前端工程化
+  - [SourceMap](/docs/前端工程化/SourceMap.md)
   - [构建配置](/docs/前端工程化/构建配置.md)
 - 前端监控
   - [wip-端到端成功率与承接率](/docs/前端监控/wip-端到端成功率与承接率.md)
