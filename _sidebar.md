@@ -3,6 +3,7 @@
 - JS
   - [async&defer属性](/docs/JS/async&defer属性.md)
   - [内存机制](/docs/JS/内存机制.md)
+  - [原型链](/docs/JS/原型链.md)
   - [模块](/docs/JS/模块.md)
   - [类](/docs/JS/类.md)
   - [装饰器](/docs/JS/装饰器.md)
