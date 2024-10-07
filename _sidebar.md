@@ -27,7 +27,6 @@
 - 关于博客
   - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
-- 关于我
 - 前端工程化
   - [SourceMap](/docs/前端工程化/SourceMap.md)
   - [构建配置](/docs/前端工程化/构建配置.md)
@@ -54,6 +53,8 @@
   - [外网请求和内网请求](/docs/服务端知识/外网请求和内网请求.md)
   - [数据冷热分离](/docs/服务端知识/数据冷热分离.md)
   - [数据动静分离](/docs/服务端知识/数据动静分离.md)
+- 环境配置
+  - [mac开发环境配置](/docs/环境配置/mac开发环境配置.md)
 - 计算机网络
   - [wip-通过websocket实现双向通信](/docs/计算机网络/wip-通过websocket实现双向通信.md)
 - 跨端开发
