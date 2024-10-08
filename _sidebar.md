@@ -27,6 +27,7 @@
 - 关于博客
   - [使用docsify搭建博客](/docs/关于博客/使用docsify搭建博客.md)
   - [自动生成sidebar](/docs/关于博客/自动生成sidebar.md)
+- 关于我
 - 前端工程化
   - [SourceMap](/docs/前端工程化/SourceMap.md)
   - [构建配置](/docs/前端工程化/构建配置.md)
@@ -56,6 +57,7 @@
 - 环境配置
   - [mac开发环境配置](/docs/环境配置/mac开发环境配置.md)
 - 计算机网络
+  - [localhost](/docs/计算机网络/localhost.md)
   - [wip-通过websocket实现双向通信](/docs/计算机网络/wip-通过websocket实现双向通信.md)
 - 跨端开发
   - [双线程与单线程架构](/docs/跨端开发/双线程与单线程架构.md)
