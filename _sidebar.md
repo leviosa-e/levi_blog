@@ -53,6 +53,7 @@
   - [wip-prerender预渲染](/docs/性能优化/wip-prerender预渲染.md)
   - [性能分析](/docs/性能优化/性能分析.md)
   - [性能指标](/docs/性能优化/性能指标.md)
+  - [拆包策略](/docs/性能优化/拆包策略.md)
 - 有点意思
   - [ServerDrivenUI](/docs/有点意思/ServerDrivenUI.md)
 - 服务端知识
