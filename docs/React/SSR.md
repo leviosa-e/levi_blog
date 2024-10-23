@@ -2,6 +2,12 @@
 
 > https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/server-side-rendering-ssr-in-reactjs-part1-d2a11890abfc
 
+## 优势
+
+- JS 和 CSS 文件已经提前在服务器加载完成，可以直接计算 HTML；
+- 服务器的网络环境更加稳定，甚至业务请求也可以由 node 服务器发起，在内网环境中进行请求；
+- 服务器的性能比用户手机的性能更好；
+
 ## Islands 架构
 
 > https://jasonformat.com/islands-architecture/
