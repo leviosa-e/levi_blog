@@ -49,6 +49,7 @@
   - [数据获取和消费的中间层](/docs/开发实践/数据获取和消费的中间层.md)
   - [移动端样式适配](/docs/开发实践/移动端样式适配.md)
 - 性能优化
+  - [SSG](/docs/性能优化/SSG.md)
   - [wip-prefetch接口预取](/docs/性能优化/wip-prefetch接口预取.md)
   - [wip-preload资源预加载](/docs/性能优化/wip-preload资源预加载.md)
   - [wip-prerender预渲染](/docs/性能优化/wip-prerender预渲染.md)
@@ -64,6 +65,8 @@
   - [数据动静分离](/docs/服务端知识/数据动静分离.md)
 - 架构设计
   - [洋葱模型](/docs/架构设计/洋葱模型.md)
+- 浏览器
+  - [剪贴板](/docs/浏览器/剪贴板.md)
 - 环境配置
   - [mac开发环境配置](/docs/环境配置/mac开发环境配置.md)
 - 计算机网络
